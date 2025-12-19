@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-upgrade",
+  "version": "1.0.0",
+  "description": "Guide for upgrading pnpm versions (v9 to v10+) with breaking changes documentation and build script investigation guidance",
+  "author": {
+    "name": "Daniel Heidorn"
+  }
+}
